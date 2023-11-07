@@ -17,6 +17,7 @@ This is all programmed in C++ in PIO in Visual Studio Code
 I used a database to collect all the data.
 
 I also used Grafana to visualise how full the bin was, also added a treshhold.
+With a gauge, it was the best way to visualise this.
 
 As an extra, we added that you get a message from a bot on Telegram when it went over the treshhold or you could ask for an update. 
 This was programmed in Python
